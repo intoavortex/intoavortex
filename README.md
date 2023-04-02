@@ -18,8 +18,13 @@
   <br/>
   <img src='https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black'/>
   <img src='https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white'/>
-  <img src='https://img.shields.io/badge/react-444444?style=flat-square&logo=react'/>
   <img src='https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white'/>
+  <img src='https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=white'/>
+  <br/>
+  <img src='https://img.shields.io/badge/react-444444?style=flat-square&logo=react'/>
+  <img src='https://img.shields.io/badge/react%20query-444444?style=flat-square&logo=react-query'/>
+  <img src='https://img.shields.io/badge/react%20router-444444?style=flat-square&logo=react-router'/>
+  <img src='https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux'/>
 </div>
 <br>
 <div align=center>
@@ -43,10 +48,10 @@
 </div>
 <div align=center>
 	<a href="https://zei.netlify.app/">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=PortFolio&logoColor=white" />
+		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat-square&logo=PortFolio&logoColor=white" />
 	</a>
 	<a href="">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
 	</a>
 	<br>
 </div>
