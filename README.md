@@ -1,4 +1,4 @@
-### currently working on🔭
+### Currently Working On🔭
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
@@ -18,7 +18,7 @@
 ![React](https://img.shields.io/badge/react-444444?style=flat-square&logo=react)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 
-### currently learning🌱
+### Currently Learning🌱
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 
