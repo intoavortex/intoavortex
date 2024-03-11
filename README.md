@@ -42,6 +42,7 @@
   <img src='https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white'/>
 </div>
 <br>
+<!--
 <div align=center>
 	<p>🎨 Portfolio 🎨</p>
 </div>
@@ -54,3 +55,4 @@
 	</a>
 	<br>
 </div>
+-->
