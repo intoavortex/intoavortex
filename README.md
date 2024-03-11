@@ -22,7 +22,6 @@
   <img src='https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=white'/>
   <br/>
   <img src='https://img.shields.io/badge/react-444444?style=flat-square&logo=react'/>
-  <img src='https://img.shields.io/badge/react%20query-444444?style=flat-square&logo=react-query'/>
   <img src='https://img.shields.io/badge/react%20router-444444?style=flat-square&logo=react-router'/>
   <img src='https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux'/>
 </div>
