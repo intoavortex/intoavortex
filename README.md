@@ -3,7 +3,6 @@
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
   <img src='https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white'/>
@@ -24,6 +23,7 @@
   <img src='https://img.shields.io/badge/react-444444?style=flat-square&logo=react'/>
   <img src='https://img.shields.io/badge/react%20router-444444?style=flat-square&logo=react-router'/>
   <img src='https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux'/>
+  <img src='https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white'/>
 </div>
 <br>
 <div align=center>
@@ -35,12 +35,12 @@
   <img src='https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white'/>
 </div>
 <br/>
-<div align=center>
+<!--<div align=center>
 	<p>🌱 Learning 🌱</p>
 </div>
 <div align=center>
   <img src='https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white'/>
-</div>
+</div>-->
 <br>
 <!--
 <div align=center>
